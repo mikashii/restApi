@@ -1,0 +1,15 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "\"Learn rest apis\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "\"Carolina Portas\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
